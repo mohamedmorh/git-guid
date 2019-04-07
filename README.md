@@ -12,6 +12,7 @@ nano .gitignore
 git mv <fileName> <fileName>
 ```
 * _delete file from directory_
+>
 ```
-> rm <fileName>
+rm <fileName>
 ```
