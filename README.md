@@ -9,10 +9,13 @@ nano .gitignore
 ```
 * _rename file_
 ```
-git mv <fileName> <fileName>
+git mv <file-name> <file-name>
 ```
 * _delete file from directory_
-
 ```
-rm <fileName>
+rm <file-name>
+```
+* _restore a file from the past commit_
+```
+git checkout <commit-hash> -- <file-name>
 ```
