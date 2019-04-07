@@ -8,3 +8,12 @@
 ```
 nano .gitignore
 ```
+* _rename file_
+```
+git mv <fileName> <fileName>
+```
+> _delete file from directory_
+
+```
+rm <fileName>
+```
