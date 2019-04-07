@@ -19,5 +19,5 @@ rm <file-name>
 ```
 git checkout <commit-hash> -- <file-name>
 ```
-_ _restore a commit from the past commits_
-  _ ```git revert <commit-hash>```
+_  _restore a commit from the past commits_
+  * ```git revert <commit-hash>```
